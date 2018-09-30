@@ -1,7 +1,5 @@
-# ShoppingStore
-
-                            SimpleShoppingStore
-                            ===================
+SimpleShoppingStore
+===================
 
 This is a simple shopping cart application written using JSP and Servlets. 
 
